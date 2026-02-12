@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68137b7b-725c-4893-a7d2-31fe9626f6e0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="38IWok7bLeaKlAXavhROac5VLwp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Conditional statements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Encapsulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.File_management.executor&quot;: &quot;Run&quot;,
+    &quot;Python.For loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List in collection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.New.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Object_class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Operator precedence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Operator_demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Polymorphism.executor&quot;: &quot;Run&quot;,
+    &quot;Python.abstraction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basic_display.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary in collection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.find_division.executor&quot;: &quot;Run&quot;,
+    &quot;Python.func. return.executor&quot;: &quot;Run&quot;,
+    &quot;Python.junk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multi_level_inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multiple_inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.new.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set in collection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuples in collection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.variable_length_func..executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Krishna\PycharmProjects\PythonPractice\" />
+      <recent name="C:\Users\Krishna\PycharmProjects\PythonPractice\1_OPERATORS" />
+      <recent name="C:\Users\Krishna\PycharmProjects\PythonPractice\OOPS" />
+      <recent name="C:\Users\Krishna\PycharmProjects\PythonPractice" />
+      <recent name="C:\Users\Krishna\PycharmProjects\PythonPractice\LOOP" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.For loop">
+    <configuration name="For loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="C:\Users\Krishna\PycharmProjects\PythonPractice\LOOP\For loop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="load name or exit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="C:\Users\Krishna\PycharmProjects\PythonPractice\LOOP\load name or exit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.For loop" />
+        <item itemvalue="Python.load name or exit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.173" />
+        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68137b7b-725c-4893-a7d2-31fe9626f6e0" name="Changes" comment="" />
+      <created>1768487741401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768487741401</updated>
+      <workItem from="1768487742425" duration="4609000" />
+      <workItem from="1768568503704" duration="19781000" />
+      <workItem from="1769094720691" duration="99000" />
+      <workItem from="1769094855017" duration="5157000" />
+      <workItem from="1769406352420" duration="1427000" />
+      <workItem from="1769407822148" duration="3277000" />
+      <workItem from="1769411160671" duration="70000" />
+      <workItem from="1769411231971" duration="8381000" />
+      <workItem from="1769614101721" duration="5225000" />
+      <workItem from="1769776252925" duration="2501000" />
+      <workItem from="1769782648802" duration="6422000" />
+      <workItem from="1770042588681" duration="8427000" />
+      <workItem from="1770302219513" duration="17964000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonPractice$new.coverage" NAME="new Coverage Results" MODIFIED="1769411288001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractice$For_loop.coverage" NAME="For loop Coverage Results" MODIFIED="1769614456391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractice$find_division.coverage" NAME="find_division Coverage Results" MODIFIED="1770824093068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_Exception" />
+    <SUITE FILE_PATH="coverage/PythonPractice$File_management.coverage" NAME="File_management Coverage Results" MODIFIED="1770391478653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FILE_HANDLING" />
+    <SUITE FILE_PATH="coverage/PythonPractice$Inheritance.coverage" NAME="Inheritance Coverage Results" MODIFIED="1770046142174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
+    <SUITE FILE_PATH="coverage/PythonPractice$basic_display.coverage" NAME="basic_display Coverage Results" MODIFIED="1768574069673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractice$set_in_collection.coverage" NAME="set in collection Coverage Results" MODIFIED="1769182225971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Operators/Collections" />
+    <SUITE FILE_PATH="coverage/PythonPractice$junk.coverage" NAME="junk Coverage Results" MODIFIED="1769407828598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Operators/Collections" />
+    <SUITE FILE_PATH="coverage/PythonPractice$Object_class.coverage" NAME="Object_class Coverage Results" MODIFIED="1770564797245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
+    <SUITE FILE_PATH="coverage/PythonPractice$Loops.coverage" NAME="Loops Coverage Results" MODIFIED="1769409243317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractice$Polymorphism.coverage" NAME="Polymorphism Coverage Results" MODIFIED="1770304907520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
+    <SUITE FILE_PATH="coverage/PythonPractice$dictionary_in_collection.coverage" NAME="dictionary in collection Coverage Results" MODIFIED="1769527555808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/COLLECTIONS" />
+    <SUITE FILE_PATH="coverage/PythonPractice$func__return.coverage" NAME="func. return Coverage Results" MODIFIED="1769937780153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FUNCTIONS" />
+    <SUITE FILE_PATH="coverage/PythonPractice$Operator_demo.coverage" NAME="Operator_demo Coverage Results" MODIFIED="1768833195634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Operators" />
+    <SUITE FILE_PATH="coverage/PythonPractice$List_in_collection.coverage" NAME="List in collection Coverage Results" MODIFIED="1769407901896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Operators/Collections" />
+    <SUITE FILE_PATH="coverage/PythonPractice$variable_length_func_.coverage" NAME="variable_length_func. Coverage Results" MODIFIED="1770820614296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_FUNCTIONS" />
+    <SUITE FILE_PATH="coverage/PythonPractice$abstraction.coverage" NAME="abstraction Coverage Results" MODIFIED="1770388358042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
+    <SUITE FILE_PATH="coverage/PythonPractice$tuples_in_collection.coverage" NAME="tuples in collection Coverage Results" MODIFIED="1769614473959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/COLLECTIONS" />
+    <SUITE FILE_PATH="coverage/PythonPractice$Encapsulation.coverage" NAME="Encapsulation Coverage Results" MODIFIED="1770390206493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
+    <SUITE FILE_PATH="coverage/PythonPractice$Conditional_statements.coverage" NAME="Conditional statements Coverage Results" MODIFIED="1768918818551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractice$Operator_precedence.coverage" NAME="Operator precedence Coverage Results" MODIFIED="1768834862159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Operators" />
+    <SUITE FILE_PATH="coverage/PythonPractice$multiple_inheritance.coverage" NAME="multiple_inheritance Coverage Results" MODIFIED="1770131570054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
+    <SUITE FILE_PATH="coverage/PythonPractice$New.coverage" NAME="New Coverage Results" MODIFIED="1769613904390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FUNCTIONS" />
+    <SUITE FILE_PATH="coverage/PythonPractice$multi_level_inheritance.coverage" NAME="multi_level_inheritance Coverage Results" MODIFIED="1770132166525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
+  </component>
+</project>
