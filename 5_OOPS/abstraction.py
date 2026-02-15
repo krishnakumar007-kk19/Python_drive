@@ -13,7 +13,6 @@ class Dog(Animal):
 obj=Dog()
 obj.display()
 
-"""
 
 #using in scenarios where privacy is important
 #Test 2
@@ -34,6 +33,28 @@ class checkbalance(ATM):
         print(balance)
 w=checkbalance()
 w.display()
+
+"""
+
+
+#Assignment 12.1 :
+# Create an abstract class 'Payment" with abstract function "pay".
+# Inherit class "UPI" from "Payment" and override 'pay' in it.
+
+from abc import ABC, abstractmethod
+
+class Payment(ABC):
+    @abstractmethod
+    def pay(self):
+        pass
+class Upi(Payment):
+    def pay(self):
+        total = 1000
+        balance = total-700
+        print(balance)
+w=Upi()
+w.pay()
+
 
 
 

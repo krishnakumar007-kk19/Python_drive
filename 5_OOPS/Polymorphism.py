@@ -1,6 +1,8 @@
 #polymorphism = ability to take more than 1 form = we use variable
 #action is same, n(variables) changes -> example = sum (a,b) , sum(a,b,c)
 
+"""
+
 #polymorphism types :
 #1.function over-riding :
 
@@ -42,3 +44,14 @@ obj=Fruit()
 obj.display()
 obj.display("mango")
 
+"""
+
+#Assignment 12.2:2. Create a class named "product" and get the product of elements entered .
+class Product:
+    def display(self,name=None):
+        if name:
+            print("The Product list is: " ,name)
+        else:
+            print("None")
+obj=Product()
+obj.display(input("Enter product to add : "))
