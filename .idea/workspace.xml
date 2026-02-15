@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="68137b7b-725c-4893-a7d2-31fe9626f6e0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_OOPS/Inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_OOPS/Inheritance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_OOPS/Polymorphism.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_OOPS/Polymorphism.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_OOPS/abstraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_OOPS/abstraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_GITHUB/details.py" beforeDir="false" afterPath="$PROJECT_DIR$/8_GITHUB/details.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -3,6 +3,10 @@
 #repository = google drive
 
 """
+
+git --version
+https://git-scm.com/install/windows
+
 git --version
 https://git-scm.com/install/windows
 
@@ -18,6 +22,13 @@ git commit -m "initial commit"
 git pull origin main --rebase
 git remote add origin https://github.com/krishnakumar007-kk19/Python_drive
 git push -u origin main
+
+
+Main to update :
+git commit -m "initial commit"
+git pull origin main --rebase
+git push -u origin main
+
 
 https://github.com/
 
