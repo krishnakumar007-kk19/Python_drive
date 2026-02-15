@@ -5,6 +5,7 @@
 #def functionname():
 #-1tab-print("message")
 
+##Example-
 #def greet()":
 #   print("hello")
 
@@ -52,6 +53,3 @@ def quo(t,u):
 v= float(input("Enter the no1?"))
 w= float(input("Enter the no2?"))
 quo(v,w)
-
-
-

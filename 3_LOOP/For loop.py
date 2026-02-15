@@ -1,5 +1,16 @@
 
 """
+for val in range(start, stop +1,steps): statements
+
+Start value begins from 0 as default
+Steps - value at which-> the amount incrementing
+default value is 1
+
+Membership operator is used in loops, as for string handling:
+In keyword is the membership operator
+range(5) = range(0,5,1)
+
+
 ##FOR LOOPS : if limit is telling in question
 
 for i in range(1,6,1):
@@ -17,7 +28,6 @@ for i in range(2,7,2):
 
 
 name = "krishna"
-
 
 for i in name:
     print(name)

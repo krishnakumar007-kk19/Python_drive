@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="68137b7b-725c-4893-a7d2-31fe9626f6e0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_OPERATORS/basic_input_display.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_OPERATORS/basic_input_display.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_LOOP/For loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_LOOP/For loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_LOOP/Loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_LOOP/Loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_FUNCTIONS/func. definition_call_parameterized func. .py" beforeDir="false" afterPath="$PROJECT_DIR$/4_FUNCTIONS/func. definition_call_parameterized func. .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_GITHUB/details.py" beforeDir="false" afterPath="$PROJECT_DIR$/8_GITHUB/details.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,11 +55,13 @@
     "Python.Polymorphism.executor": "Run",
     "Python.abstraction.executor": "Run",
     "Python.basic_display.executor": "Run",
+    "Python.basic_input_display.executor": "Run",
     "Python.details.executor": "Run",
     "Python.dictionary in collection.executor": "Run",
     "Python.find_division.executor": "Run",
     "Python.func. return.executor": "Run",
     "Python.junk.executor": "Run",
+    "Python.load name or exit.executor": "Run",
     "Python.multi_level_inheritance.executor": "Run",
     "Python.multiple_inheritance.executor": "Run",
     "Python.new.executor": "Run",

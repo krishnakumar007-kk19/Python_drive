@@ -77,6 +77,3 @@ while i<len(name):
     i=i+1
 print(count)
 
-
-
-
