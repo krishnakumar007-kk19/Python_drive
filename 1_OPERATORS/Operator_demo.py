@@ -48,16 +48,16 @@ print(not x<y)
 
 """
 
-x = 10
-y = 12
+x = 3
+y = 4
 
-print(x+y)
-print(y-x)
-print(x*y)
-print(x/y)
-print(x//y)
-print(x>y)
-print(y<=x) and print(x>y)
+print(x+y) #7
+print(y-x) #1
+print(x*y) #12
+print(x/y) #0.75
+print(x//y) #0
+print(x>y) #False
+print(y<=x) and print(x>y) #False
 
 
 

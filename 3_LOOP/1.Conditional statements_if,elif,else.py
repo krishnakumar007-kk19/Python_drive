@@ -2,6 +2,10 @@
 #Conditional statements
 #if_else; if_elif ;
 
+#if condition is checked
+#true -> prints
+#false -> next line
+
 """
 x=1
 y=2
@@ -16,7 +20,7 @@ if x>y:
     print(x)
 else:
     print(y)
-
+#****************************************************************
 
 x=2
 y=4
@@ -26,14 +30,9 @@ if z>y:
     print(z)
 else:
     print(y)
-
+#****************************************************************
 
 age = 13
-
-#if condition is checked
-#true -> prints
-#false -> next line
-
 if age<13:
     print("child")
 elif age>=13 and age <=20:
@@ -42,15 +41,16 @@ elif age>=21 and age<=59:
     print("young")
 else:
     print("old")
+#*****************************************************************
 
 #Loops
 #repeating/ recurring
 #same action_multiple times
+
 #for_while ;
 
 #for - loop -> for 5 times action
 #n() -> is know
-
 
 #while -> loop
 #n() -> is not know
@@ -62,7 +62,7 @@ else:
 #from 2nd time,comes after any condition - is met
 
 """
-
+#*****************************************************************
 #ASSIGNMENT: 3
 
 print("QUESTION:1")
@@ -71,7 +71,8 @@ if (x % int(2))==0:
     print("even number")
 else:
     print("odd number")
-############################################
+#*****************************************************************
+
 print("QUESTION:2")
 y=4
 z=2

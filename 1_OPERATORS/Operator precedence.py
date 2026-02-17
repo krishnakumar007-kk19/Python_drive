@@ -1,16 +1,17 @@
 
-x=2
-y=4
-z=3
+x=4
+y=2
+z=1
 
-print(x-y+z)
-print(x+y-z)
-#print(x+y*z)
-#print(x*(y+z))
-#print(z+x-y)
-#print(y+z-x-y)
-print(x/y*z)
+print(x-y+z) #3
+print(x+y-z) #5
+print(x+y*z) #6
+print(x*(y+z)) #12
+print(z+x-y) #3
+print(y+z-x-y) #-3
+print(x/y*z) #2.0
 
+#*********************************************
 """
 #arithemetic
 + & - = same priority
@@ -23,6 +24,7 @@ left to right
 result1 = a + b * c       
 result2 = (a + b) * c   
 result3 = a + b / c
+
 """
 
 x=2

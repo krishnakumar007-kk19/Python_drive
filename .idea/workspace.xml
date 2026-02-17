@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68137b7b-725c-4893-a7d2-31fe9626f6e0" name="Changes" comment="" />
+    <list default="true" id="68137b7b-725c-4893-a7d2-31fe9626f6e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2_COLLECTIONS/0_Summary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_LOOP/0.Summary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_LOOP/4.Vowel in word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_FUNCTIONS/2.Function using inputs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_OPERATORS/Operator precedence.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_OPERATORS/Operator precedence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_OPERATORS/Operator_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_OPERATORS/Operator_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_OPERATORS/basic_input_display.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_OPERATORS/basic_input_display.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_COLLECTIONS/List in collection.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_COLLECTIONS/1. List in collection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_COLLECTIONS/dictionary in collection.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_COLLECTIONS/4. dictionary in collection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_COLLECTIONS/set in collection.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_COLLECTIONS/2. set in collection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_COLLECTIONS/tuples in collection.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_COLLECTIONS/3. tuples in collection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_LOOP/Conditional statements_if,elif,else.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_LOOP/1.Conditional statements_if,elif,else.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_LOOP/For loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_LOOP/2.For_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_LOOP/Loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_LOOP/load name or exit.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_LOOP/5.load_ name or exit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_LOOP/while loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_LOOP/3.while loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_FUNCTIONS/func. definition_call_parameterized func. .py" beforeDir="false" afterPath="$PROJECT_DIR$/4_FUNCTIONS/1.func. definition_call_parameterized func_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_FUNCTIONS/func. return.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_FUNCTIONS/3.func. return.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_FUNCTIONS/variable_length_func..py" beforeDir="false" afterPath="$PROJECT_DIR$/4_FUNCTIONS/4.variable_length_func using args.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,52 +52,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Conditional statements.executor": "Run",
-    "Python.Encapsulation.executor": "Run",
-    "Python.File_management.executor": "Run",
-    "Python.For loop.executor": "Run",
-    "Python.Inheritance.executor": "Run",
-    "Python.List in collection.executor": "Run",
-    "Python.Loops.executor": "Run",
-    "Python.New.executor": "Run",
-    "Python.Object_class.executor": "Run",
-    "Python.Operator precedence.executor": "Run",
-    "Python.Operator_demo.executor": "Run",
-    "Python.Polymorphism.executor": "Run",
-    "Python.abstraction.executor": "Run",
-    "Python.basic_display.executor": "Run",
-    "Python.basic_input_display.executor": "Run",
-    "Python.details.executor": "Run",
-    "Python.dictionary in collection.executor": "Run",
-    "Python.find_division.executor": "Run",
-    "Python.func. return.executor": "Run",
-    "Python.junk.executor": "Run",
-    "Python.load name or exit.executor": "Run",
-    "Python.multi_level_inheritance.executor": "Run",
-    "Python.multiple_inheritance.executor": "Run",
-    "Python.new.executor": "Run",
-    "Python.set in collection.executor": "Run",
-    "Python.tuples in collection.executor": "Run",
-    "Python.variable_length_func..executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Conditional statements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Encapsulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.File_management.executor&quot;: &quot;Run&quot;,
+    &quot;Python.For loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List in collection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.New.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Object_class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Operator precedence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Operator_demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Polymorphism.executor&quot;: &quot;Run&quot;,
+    &quot;Python.abstraction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basic_display.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basic_input_display.executor&quot;: &quot;Run&quot;,
+    &quot;Python.details.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary in collection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.find_division.executor&quot;: &quot;Run&quot;,
+    &quot;Python.func. return.executor&quot;: &quot;Run&quot;,
+    &quot;Python.junk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.load name or exit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multi_level_inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multiple_inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.new.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set in collection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuples in collection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.variable_length_func..executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Krishna\PycharmProjects\PythonPractice\" />
@@ -85,62 +106,6 @@
       <recent name="C:\Users\Krishna\PycharmProjects\PythonPractice" />
       <recent name="C:\Users\Krishna\PycharmProjects\PythonPractice\LOOP" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="For loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonPractice" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\Users\Krishna\PycharmProjects\PythonPractice\LOOP\For loop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="load name or exit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonPractice" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\Users\Krishna\PycharmProjects\PythonPractice\LOOP\load name or exit.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.For loop" />
-        <item itemvalue="Python.load name or exit" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>

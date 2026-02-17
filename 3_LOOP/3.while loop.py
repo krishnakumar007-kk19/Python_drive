@@ -23,7 +23,12 @@ while i<len(name):
 print(count)
 
 
-#Assignment 5
+#Assignment 5.1
+name1 = input("Enter your name: ")
+print(name1.lower())
+print(name1.upper())
+
+#Assignment 5.2
 name = input("Enter your name: ")
 print(name.lower())
 
