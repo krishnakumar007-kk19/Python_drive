@@ -1,7 +1,7 @@
 
-
-#Class naming -> 1st letter should be capital letter
 #class -> collection of objects
+#Class naming -> 1st letter should be capital letter
+
 #Self -> to isolate objects & to distribute properties seperately
 #constructor -> while creating a class,
 #Abc school -> attribute
