@@ -1,6 +1,6 @@
 #Abstraction = displaying the necessary data & hiding the unnecessary ones
 #taking money in atm & balance reflect in bank
-"""
+
 from abc import ABC, abstractmethod
 
 class Animal(ABC):
@@ -34,7 +34,7 @@ class checkbalance(ATM):
 w=checkbalance()
 w.display()
 
-"""
+
 
 
 #Assignment 12.1 :

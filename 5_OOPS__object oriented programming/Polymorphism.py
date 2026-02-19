@@ -1,11 +1,13 @@
 #polymorphism = ability to take more than 1 form = we use variable
 #action is same, n(variables) changes -> example = sum (a,b) , sum(a,b,c)
 
-"""
+#polymorphism 2 types :
+#function over-riding
+#function over-loading
+#***********************************************************************************
 
-#polymorphism types :
 #1.function over-riding :
-
+#---------------------------
 
 # using here 3 times display() function
 #using in scenarios where privacy is important
@@ -24,11 +26,10 @@ class checkbalance(ATM):
         print(Balance)
 w=Withdraw()
 w.display()
-
-
-
+#***********************************************************************************
 
 #2.function over-loading : adding extra word+ input
+#---------------------------
 
 #Qns :
 #if an input is taken from user, print hello name. otherwise, print good morning
@@ -43,8 +44,7 @@ class Fruit:
 obj=Fruit()
 obj.display()
 obj.display("mango")
-
-"""
+#***********************************************************************************
 
 #Assignment 12.2:2. Create a class named "product" and get the product of elements entered .
 class Product:
@@ -55,3 +55,4 @@ class Product:
             print("None")
 obj=Product()
 obj.display(input("Enter product to add : "))
+#***********************************************************************************

@@ -13,13 +13,13 @@ class Car:
     def __init__(self,name,mileage): # __init taken as private
         self.name = name # public access modifier is default access modifier
         self._mileage = mileage # _ is used as for protected access modifier
-        self.__price = 200 # __ is used for private access modifier
+        self.__price = 200 # __ is used for private access modifier/Variable
     def get_price(self):
         return self.__price #return - as to reuse the value 
     def set_price(self,price):
         self.__price = price
 obj1 = Car("ford",100)
 obj1.set_price(1000)
-print(obj1.get_price())
+print(obj1.get_price())  #1000
 
 

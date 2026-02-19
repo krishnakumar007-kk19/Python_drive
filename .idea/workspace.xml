@@ -5,26 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68137b7b-725c-4893-a7d2-31fe9626f6e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2_COLLECTIONS/0_Summary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_LOOP/0.Summary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_LOOP/4.Vowel in word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_FUNCTIONS/2.Function using inputs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_Selenium starting/1.Theory.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_OPERATORS/Operator precedence.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_OPERATORS/Operator precedence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_OPERATORS/Operator_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_OPERATORS/Operator_demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_OPERATORS/basic_input_display.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_OPERATORS/basic_input_display.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_COLLECTIONS/List in collection.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_COLLECTIONS/1. List in collection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_COLLECTIONS/dictionary in collection.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_COLLECTIONS/4. dictionary in collection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_COLLECTIONS/set in collection.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_COLLECTIONS/2. set in collection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_COLLECTIONS/tuples in collection.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_COLLECTIONS/3. tuples in collection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_LOOP/Conditional statements_if,elif,else.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_LOOP/1.Conditional statements_if,elif,else.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_LOOP/For loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_LOOP/2.For_loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_LOOP/Loops.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_LOOP/load name or exit.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_LOOP/5.load_ name or exit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_LOOP/while loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_LOOP/3.while loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_FUNCTIONS/func. definition_call_parameterized func. .py" beforeDir="false" afterPath="$PROJECT_DIR$/4_FUNCTIONS/1.func. definition_call_parameterized func_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_FUNCTIONS/func. return.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_FUNCTIONS/3.func. return.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_FUNCTIONS/variable_length_func..py" beforeDir="false" afterPath="$PROJECT_DIR$/4_FUNCTIONS/4.variable_length_func using args.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_OOPS__object oriented programming/Encapsulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_OOPS__object oriented programming/Encapsulation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_OOPS__object oriented programming/Polymorphism.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_OOPS__object oriented programming/Polymorphism.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_OOPS__object oriented programming/abstraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_OOPS__object oriented programming/abstraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9_Selenium starting/__init__.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
